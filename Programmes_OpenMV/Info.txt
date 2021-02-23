@@ -1,0 +1,20 @@
+Batterie principal : 1800 mAh
+2 S / 7.4 V
+13.3Wh
+35C
+
+
+Jetson Nano : 5 V et 4 A  
+
+servo 20189 Standard Traxxas TRX2018
+
+
+Servo Moteur : 73 = milieu
+
+			gauche = 28
+			droite = 118
+		
+		
+IL FAUT INVERSER LES PINS PLUS (rouge) ET MOINS(noir) POUR BRANCHER LA OPEN MV sur la carte Mère 
+
+
